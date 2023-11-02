@@ -41,14 +41,14 @@ body {
     border: 1px solid #463535;
     border-radius: 6px;
     margin-bottom: 10px;
-    transition: transform 0.3s;  /* added animation for color transition */
+/*     transition: transform 0.3s;  */
     box-shadow: 10px 10px rgba(57, 55, 55,15);
     background-color: rgb(129, 106, 106);
     
 }
 
 .product:hover {
-    transform: scale(1.1); /* added animation for hover effect */
+/*     transform: scale(1.1); */
 }
 
 .product img {
@@ -74,8 +74,8 @@ body {
 
 #button-eff:hover{
     pointer-events:visible;
-    padding: 6px;
-    background-color: #7e8089;
+/*     padding: 6px; */
+/*     background-color: #7e8089; */
 }
 
 main{
