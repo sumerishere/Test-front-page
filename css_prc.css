@@ -1,0 +1,62 @@
+#img-id{
+    height: 200px;
+    width: 200px;
+    background-image: url('shoe-transparent-background-12.png');
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position:center;
+ } 
+  .css-efft1{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    display: inline-flex;
+
+    background-color: rgb(183, 107, 107); */
+}
+.css-efft2{
+    height: 100px;
+    width: 100px;
+    display: inline-flex;
+    padding: 20px;
+    background-color: rgb(95, 172, 80);
+}
+.css-efft3{
+    height: 100px;
+    width: 100px;
+    padding:20px;
+    display: inline-flex;
+    background-color: rgb(80, 38, 205); */
+}
+
+.tex-decoration{
+    text-decoration:underline aqua;
+   
+}
+#textt-transform{
+    text-transform:capitalize;
+}
+
+#link-tag{
+    text-decoration :none;
+    text-transform: capitalize;
+    
+}
+
+.btn{
+    pointer-events: stroke;
+    display: block;
+    line-height: 25px;
+    background-color: rgb(145, 145, 207);
+    border-radius: 20px;
+    border-color: rgb(102, 125, 134);
+    margin-top: 10px;
+
+   
+}
+
+#padd{
+    padding:10px 5px 10px 5px;
+    margin-top: 20px;
+    background-color: cadetblue;
+}
