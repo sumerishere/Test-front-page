@@ -90,7 +90,7 @@ main{
 
 @media screen and (max-width:478px) {
     .product-container{
-        grid-template-columns: repeat(2,46.6vw);
+        grid-template-columns: repeat(2,170px);
     }
 }
 @media screen and (max-width:328px) {
